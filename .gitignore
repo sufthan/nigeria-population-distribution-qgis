@@ -1,0 +1,22 @@
+# QGIS temporary/lock files
+*.qgs~
+*.qgz~
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Large/raw data that should not be committed unless intentionally included
+*.tif
+*.tiff
